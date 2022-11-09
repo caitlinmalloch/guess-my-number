@@ -16,5 +16,7 @@ This game allows the user to guess the secret number by entering their guess, an
 
 # Live site
 
+https://guess-my-number-game21.netlify.app
 
-
+Live site hosted by Netflify
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b18a3b00-718a-404c-aede-97869c97ef2a/deploy-status)](https://app.netlify.com/sites/guess-my-number-game21/deploys)
