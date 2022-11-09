@@ -1,6 +1,10 @@
 # Guess My Number Game
 
-Game built with JavaScript
+![guessmynumber](https://user-images.githubusercontent.com/96154629/200931843-3fdb43a0-12d5-4b42-a386-6c1169f21d22.png)
+
+# Languages Used
+
+JavaScript
 
 # Program
 
@@ -13,5 +17,4 @@ This game allows the user to guess the secret number by entering their guess, an
 # Live site
 
 
-# Preview 
-![guessmynumber](https://user-images.githubusercontent.com/96154629/200931843-3fdb43a0-12d5-4b42-a386-6c1169f21d22.png)
+
